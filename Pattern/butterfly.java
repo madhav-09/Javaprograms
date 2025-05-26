@@ -33,6 +33,7 @@ public class butterfly {
         for (int i = n; i >= 1; i--) {
             // Left stars
             for (int j = 1; j <= i; j++) {
+                
                 System.out.print("*");
             }
 
